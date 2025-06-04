@@ -10,7 +10,7 @@ ARUTIL is a command line tool for working with Oracle RAC. It helps you to displ
 ARUTIL is developed in Go. You should download the latest ARUTIL release and copy the corresponding file to your Linux database server. After setting Oracle environment and adding execute permissions `chmod +x ./arutil_ol7` you can start ARUTIL.
 
 
-![Start ARUTIL](https://github.com/asimondev/arutil/screenshots/arutil_start.png)
+![Start ARUTIL](https://github.com/asimondev/arutil/blob/main/screenshots/arutil_start.png)
 
 
 ***
